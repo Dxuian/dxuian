@@ -1,6 +1,10 @@
 name: Generate snake animation
 
 on:
+  #execute on push also 
+  push:
+    branches:
+      - master
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
 
