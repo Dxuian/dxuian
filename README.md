@@ -28,3 +28,6 @@
 <img src="https://raw.githubusercontent.com/dxuian/dxuian/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+[![An image of @dxuian's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dxuian)](https://holopin.io/@dxuian)
