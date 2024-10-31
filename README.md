@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxuian&title=-Stars,-Followers,-Reviews,-Issues" alt="dxuian" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [dxuian.me](dxuian.me)
+- 👨‍💻 All of my projects are available at [dxuian.me](https://www.dxuian.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
