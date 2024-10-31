@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dxuian&label=Profile%20views&color=0e75b6&style=flat" alt="dxuian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxuian&title=-Stars,-Followers,-Reviews,-Issues" alt="dxuian" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxuian&title=-Stars,-Followers,-Reviews,-Issues" alt="dxuian" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [dxuian.me](dxuian.me)
 
